@@ -19,6 +19,9 @@
         <td width="123">RE_AGAINST</td>
         <td width="107">REPORT</td>
         <td width="123">&nbsp;</td>
+        <td width="123">&nbsp;</td>
+        <td width="123">&nbsp;</td>
+        
       </tr>
          <%
       dbquery db=new dbquery();
