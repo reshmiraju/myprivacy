@@ -19,6 +19,8 @@
         <td width="48">NAME</td>
         <td width="58">EMAIL</td>
          <td width="58">FEEDBACK</td>
+         <td width="123">&nbsp;</td>
+         <td width="123">&nbsp;</td>
          
          <%
       dbquery db=new dbquery();
