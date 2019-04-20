@@ -4,7 +4,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>my privacy my decision</title>
+<title>my privacy my decision
+  
+  
+ </title>
 </head>
 
 <body>
@@ -13,6 +16,7 @@
   <div align="center">
     <table width="553" border="1">
       <tr>
+        
         <td width="46" height="63">SLNO</td>
         <td width="50">NAME</td>
         <td width="64">EMAIL</td>
@@ -20,6 +24,7 @@
         <td width="107">REPORT</td>
         <td width="123">&nbsp;</td>
       </tr>
+      
          <%
       dbquery db=new dbquery();
       int i=1;
@@ -47,3 +52,7 @@
 </form>
 </body>
 </html>
+
+
+
+
