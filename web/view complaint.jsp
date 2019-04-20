@@ -13,7 +13,7 @@
     <table width="275" border="1">
       <tr>
         <td height="35">SLNO</td>
-        <td>NAME</td>
+        <td>NAME of the user</td>
         <td>EMAIL</td>
         <td>COMPLAINT</td>
         <td>REPLY</td>
