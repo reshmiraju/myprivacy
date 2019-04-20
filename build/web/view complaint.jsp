@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>MY PRIVACY MY DECISION</title>
+<title>MY PRIVACY MY DECISION PROJECT</title>
 </head>
 
 <body>
@@ -13,7 +13,7 @@
     <table width="275" border="1">
       <tr>
         <td height="35">SLNO</td>
-        <td>NAME</td>
+        <td>NAME of the user</td>
         <td>EMAIL</td>
         <td>COMPLAINT</td>
         <td>REPLY</td>
